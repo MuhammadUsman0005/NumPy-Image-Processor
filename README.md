@@ -8,6 +8,7 @@ This project is a hands-on exploration of Image Processing using NumPy for matri
 - 💡 **Brightness Control:** Using NumPy Broadcasting and np.clip to adjust pixel values without exceeding the 8-bit limit (0-255).
 - ✂️ **Geometric Transformations:** Implementing Image Flipping and Cropping using Python’s advanced Slicing and Indexing techniques.
 
-
+-----
+If you want to understand each line of code, then download the PDF.
 ⭐ **Star this repo if you found it helpful!**
 
